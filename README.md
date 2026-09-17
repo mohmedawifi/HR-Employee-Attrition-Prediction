@@ -2,6 +2,8 @@
 
 End-to-end Data Science project: exploratory data analysis, machine learning, and an interactive Tableau dashboard to identify employees at risk of leaving the company.
 
+
+![Dashboard](Screenshot%202026-09-17%20162938.png)
 ---
 
 ## 📌 Business Problem
